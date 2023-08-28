@@ -14,7 +14,7 @@ uid: 6181f96e-9626-4b87-b9aa-75111f8f1ff2
 
 Bill Gates. ["Climate Change and the 75% Problem."](https://www.gatesnotes.com/energy/my-plan-for-fighting-climate-change) GatesNotes, October 17, 2018.
 
-Nikayla Jefferson and Leah C. Stokes. ["Our Racist Fossil Fuel Energy System."](https://www.bostonglobe.com/2020/07/13/opinion/our-racist-fossil-fuel-energy-system/) BostonGlobe.com, July 13, 2020.
+Nikayla Jefferson and Leah C. Stokes. "Our Racist Fossil Fuel Energy System." BostonGlobe.com, July 13, 2020.
 
 Miriam Wasser. ["What to Know about the New Mass. Climate Law."](https://www.wbur.org/news/2022/07/22/massachusetts-climate-bill-baker-desk) WBUR, July 22, 2022.
 
@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                                 
-                                                
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System." (PDF)](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                                   
+                                                  
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -48,7 +48,7 @@ Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on
 
 ### Session 4: Built Environment and Land Use
 
-Ray Tomalty. ["Carbon in the Bank: Ontario’s Greenbelt and Its Role in Mitigating Climate Change" (PDF - 3.8 MB)](https://davidsuzuki.org/wp-content/uploads/2012/08/carbon-bank-ontario-greenbelt-role-mitigating-climate-change.pdf). Technical report, David Suzuki Foundation, August 2012.
+Ray Tomalty. ["Carbon in the Bank: Ontario’s Greenbelt and Its Role in Mitigating Climate Change" (PDF - 2.9 MB)](https://davidsuzuki.org/wp-content/uploads/2012/08/carbon-bank-ontario-greenbelt-role-mitigating-climate-change.pdf). Technical report, David Suzuki Foundation, August 2012.
 
 Ivan Penn. ["A Gun-Owning Trump Fan’s New Crusade: Clean Energy."](https://www.nytimes.com/2018/02/28/business/energy-environment/debbie-dooley-energy.html) The New York Times, February 28, 2018.
 
@@ -56,7 +56,7 @@ Jonathan Chait. ["Will Local Politics Cook the Planet?"](https://nymag.com/intel
 
 Francis Wilkinson. ["The Solar Farm that Almost Destroyed Copake, N.Y."](https://www.bloomberg.com/opinion/articles/2022-03-20/how-copake-new-york-fought-and-then-accepted-a-solar-farm) Bloomberg.com, March 20, 2022.
 
-Andrew Revkin. ["When Climate Action Meets Energy Friction: Why Permitting Reform Is Easier Sought than Done."](https://revkin.bulletin.com/when-climate-action-meets-energy-friction-why-permitting-reform-is-easier-sought-than-done) Sustain What, August 23, 2022.
+Andrew Revkin. "When Climate Action Meets Energy Friction: Why Permitting Reform Is Easier Sought than Done." Sustain What, August 23, 2022.
 
 ### Session 5: Personal Transport
 
@@ -70,7 +70,7 @@ Victoria Penney. ["Electric Cars Are Better for the Planet and Often Your Budget
 
 Andrew J. Hawkins. ["Yes, the New Electric Vehicle Tax Credits are Really Confusing, but We Can Help."](https://www.theverge.com/23310457/inflation-reduction-act-ev-tax-credit-act-explainer-how-to) *The Verge*, August 17, 2022.
 
-M.J. Bradley & Associates. ["Financial Incentives for Electric Vehicles."](https://www.mjbradley.com/toolkit-policy-financialincentives) ERM Group, 2022.
+M.J. Bradley & Associates. "Financial Incentives for Electric Vehicles." ERM Group, 2022.
 
 ### Session 6: Transport Systems   
 
@@ -158,7 +158,7 @@ U.S. Department of Energy. ["Computing Americas Offshore Wind Energy Potential."
 
 U.S. Department of Energy. ["Simple Levelized Cost of Energy (LCOE) Calculator Documentation."](https://www.nrel.gov/analysis/tech-lcoe-documentation.html) Energy Analysis | NREL.
 
-Lazard. [Lazard's Levelized Cost of Energy Analysis 15.0 (PDF)](https://www.lazard.com/media/451881/lazards-levelized-cost-of-energy-version-150-vf.pdf), p. 20. October 2020.
+Lazard. [Lazard's Levelized Cost of Energy Analysis 15.0 (PDF)](https://www.lazard.com/media/sptlfats/lazards-levelized-cost-of-energy-version-150-vf.pdf), p. 20. October 2021.
 
 ### Session 14: Siting Renewables
 
@@ -178,7 +178,7 @@ Lawrence Susskind, Jungwoo Chun, Alexander Gant, Chelsea Hodgkins, Jessica Cohen
 
 Micah S. Ziegler, Joshua M. Mueller, Gonçalo D. Pereira, Juhyun Song, Marco Ferrara, Yet-Ming Chiang, and Jessika E. Trancik (2019). ["Storage Requirements and Costs of Shaping Renewable Energy Toward Grid Decarbonization."](https://www.sciencedirect.com/science/article/pii/S2542435119303009) *Joule* 3(9): 2134–2153.
 
-Lazard. [Lazard's Levelized Cost of Storage Analysis 7.0 (PDF)](https://www.lazard.com/media/451882/lazards-levelized-cost-of-storage-version-70-vf.pdf), page 20, October 2020.
+Lazard. [Lazard's Levelized Cost of Storage Analysis 7.0 (PDF)](https://www.lazard.com/media/42dnsswd/lazards-levelized-cost-of-storage-version-70-vf.pdf), page 20, October 2020.
 
 Bjorn Brandtzaeg, Patrick Brown, Kevin Huang, and Johannes Pfeifenberger. ["The Future of Energy Storage," Executive Summary (PDF)](https://energy.mit.edu/wp-content/uploads/2022/05/The-Future-of-Energy-Storage-Executive-Summary.pdf). Technical report, MIT Energy Initiative, 2022.
 
@@ -252,9 +252,7 @@ David Hsu (202). ["Straight out of Cape Cod: The Origin of Community Choice Aggr
 
 \[skim\] Ignacio Pérez-Arriaga and Christopher Knittel. [The Utility of the Future (PDF - 11 MB)](https://energy.mit.edu/wp-content/uploads/2016/12/Utility-of-the-Future-Full-Report.pdf). Technical report, MIT Energy Initiatve, 2016.
 
-### Sessions 23–26
-
-\[No readings assigned\]
+### Sessions 24–26
 
 \[DM\] chapter 13
 

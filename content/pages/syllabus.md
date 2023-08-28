@@ -67,20 +67,20 @@ Other papers assigned for each class are listed on the {{% resource_link "c1dcc3
 
 Optional companion books focusing on materials and food may interest some of you: 
 
-- Allwood, Julian M., and Jonathan M. Cullen. 2012. *Sustainable Materials: With Both Eyes Open.* UIT Cambridge Ltd. ISBN: 9781906860059. This can be downloaded legally as a PDF or read in webpage format [here](https://www.uselessgroup.org/publications/book/chapters).
+- Allwood, Julian M., and Jonathan M. Cullen. 2012. *Sustainable Materials: With Both Eyes Open.* UIT Cambridge Ltd. ISBN: 9781906860059. This can be [downloaded legally as a PDF or read in webpage format here](https://www.uselessgroup.org/publications/book/chapters).
 - Bridle, Sarah L. 2020. *Food and Climate Change Without the Hot Air: Change Your Diet: The Easiest Way to Help Save the Planet.* UIT Cambridge, Ltd. ISBN: 9780857845030.
 
 ### Regular News Reading 
 
 You should do regular readings to educate yourself during the class—and beyond!—on specific areas of interest. I will start most classroom days with a brief discussion about current events related to our reading. News services have greatly expanded their coverage of energy, climate, as well as related policies and legislation.
 
-- Many major newspapers allow you to subscribe to climate- and energy-specific newsletters. Examples: the New York Times ([Climate Forward](https://www.nytimes.com/column/climate-fwd)); the Washington Post ([Climate 202](https://www.washingtonpost.com/politics/the-202-newsletters/the-climate-202/)); the Wall Street Journal ([WSJ Climate & Energy](https://s.wsj.net/newsletter/climate_CM_preview.html)); Financial Times ([Climate Capital](https://www.ft.com/climate-capital)); the Boston Globe ([Into the Red](https://www.bostonglobe.com/science/environment/climate/)); the Los Angeles Times ([Boiling Point](https://www.latimes.com/newsletters/boiling-point)). 
-- Magazines and journals such as the New Yorker (Bill McKibben, Elizabeth Kolbert) and the Atlantic (Robinson Meyer)
+- Many major newspapers allow you to subscribe to climate- and energy-specific newsletters. Examples: the *New York Times* ([Climate Forward](https://www.nytimes.com/column/climate-fwd)); the *Washington Post* ([Climate 202](https://www.washingtonpost.com/politics/the-202-newsletters/the-climate-202/)); the *Wall Street Journal* ([WSJ Climate & Energy](https://s.wsj.net/newsletter/climate_CM_preview.html)); the *Financial Times* ([Climate Capital](https://www.ft.com/climate-capital)); the *Boston Globe* ([Into the Red](https://www.bostonglobe.com/science/environment/climate/)); the *Los Angeles Times* ([Boiling Point](https://www.latimes.com/newsletters/boiling-point)). 
+- Magazines and journals such as the *New Yorker* (Bill McKibben, Elizabeth Kolbert) and the *Atlantic* (Robinson Meyer)
 - [E&E News](https://www.eenews.net/get-access/)
 
 Other news and commentary outlets that have excellent climate coverage, including: 
 
-- U.S. and regional Energy News Networks, available [here](https://energynews.us/). These newsletters are an excellent source of local and regional energy news.
+- U.S. and regional [Energy News Networks](https://energynews.us/). These newsletters are an excellent source of local and regional energy news.
 - Twitter is surprisingly useful if you follow the right people and are not distracted by cute puppy videos. 
 
 It is all too much to read everyday, but learning what and how to pay attention to things that interest you is a valuable way to see what people in the energy and climate spaces are talking about. I welcome any news suggestions that you all want to discuss (the quirkier, the better!).
