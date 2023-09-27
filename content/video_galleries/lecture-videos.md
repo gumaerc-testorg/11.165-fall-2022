@@ -1,8 +1,8 @@
 ---
 content_type: video_gallery
-draft: true
-title: Lecture Videos (To Be Deleted)
-uid: e5fb600c-2151-49c5-8f85-166a460c6ce9
+draft: false
+title: Lecture Videos
+uid: ecf18866-041c-41bf-bae3-bed2a9f3738d
 videos:
   content:
   - 15b5152b-5734-4b52-b753-b7b272f2ce08
