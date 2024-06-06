@@ -3,19 +3,23 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
+- identifier: 51a00255-dbc7-482f-abfb-a7a29447d675
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
 - identifier: 6181f96e-9626-4b87-b9aa-75111f8f1ff2
   name: Readings
   pageRef: /pages/readings
-  weight: 20
+  weight: 30
 - identifier: ecf18866-041c-41bf-bae3-bed2a9f3738d
   name: Lecture Videos
   pageRef: /video_galleries/lecture-videos
-  weight: 30
+  weight: 40
 - identifier: 7dfa8f0e-5be1-4c60-9daf-785dcedd2407
   name: Lecture Slides
   pageRef: /pages/lecture-slides
-  weight: 40
+  weight: 50
 - identifier: d65833b2-459f-409e-9fe4-0685952897a2
   name: Assignments
   pageRef: /pages/assignments
-  weight: 50
+  weight: 60
