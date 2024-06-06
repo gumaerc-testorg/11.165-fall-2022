@@ -53,7 +53,7 @@ Putting the two halves together will help you decide where and how to intervene 
 
 ## Activities 
 
-In the beginning of class, we will build a composite picture of our class, using our personal experiences and visions for the future to energy systems that you are familiar with. Please calculate the current carbon emissions for yourself and/or an average resident for where (a) you lived before MIT and (b) where and how you think you will live in 2050, using the {{% resource_link "92adca57-82b0-4e4c-bd41-f9682f3668c0" "CoolClimate calculator" %}}.
+In the beginning of class, we will build a composite picture of our class, using our personal experiences and visions for the future to energy systems that you are familiar with. Please calculate the current carbon emissions for yourself and/or an average resident for where (a) you lived before MIT and (b) where and how you think you will live in 2050, using the [CoolClimate calculator](https://coolclimate.berkeley.edu/calculator).
 
 For each lecture, we will be “flipping” the classroom; I will record a {{% resource_link "e5fb600c-2151-49c5-8f85-166a460c6ce9" "short video lecture" %}} before class that highlights key issues from the reading material and that sets the stage for our class exercises and discussion. Then, in each class, we will discuss (a) recent news developments, (b) the class assignment, which will take the form of short problem sets that either test you on reading comprehension or basic calculation exercises, and (c) a student will volunteer to help stimulate discussion and debate about the complex aspects of cities, climate, and energy (the fun part!).
 
@@ -61,26 +61,26 @@ For each lecture, we will be “flipping” the classroom; I will record a {{% r
 
 The primary text for the class is: 
 
-- MacKay, David J.C., 2009. *Sustainable Energy—Without the Hot Air*, 1st ed., UIT Cambridge Ltd. ISBN: 9780954452933. This can be {{% resource_link "ff0b045e-e1b0-4b78-980c-af17b2661b7c" "downloaded legally as a PDF or read in webpage format here" %}}.
+- MacKay, David J.C., 2009. *Sustainable Energy—Without the Hot Air*, 1st ed., UIT Cambridge Ltd. ISBN: 9780954452933. This can be [downloaded legally as a PDF or read in webpage format here](http://withouthotair.com/).
 
 Other papers assigned for each class are listed on the {{% resource_link "c1dcc394-8b93-4ab1-a0b0-eae57ec3b56c" "Readings" %}} page. I may occasionally modify the weekly readings, in which case I will notify you in advance. 
 
 Optional companion books focusing on materials and food may interest some of you: 
 
-- Allwood, Julian M., and Jonathan M. Cullen. 2012. *Sustainable Materials: With Both Eyes Open.* UIT Cambridge Ltd. ISBN: 9781906860059. This can be {{% resource_link "c4337d88-221f-4cea-aa99-a2ca2f097a3e" "downloaded legally as a PDF or read in webpage format here" %}}.
+- Allwood, Julian M., and Jonathan M. Cullen. 2012. *Sustainable Materials: With Both Eyes Open.* UIT Cambridge Ltd. ISBN: 9781906860059. This can be [downloaded legally as a PDF or read in webpage format here](https://www.uselessgroup.org/publications/book/chapters).
 - Bridle, Sarah L. 2020. *Food and Climate Change Without the Hot Air: Change Your Diet: The Easiest Way to Help Save the Planet.* UIT Cambridge, Ltd. ISBN: 9780857845030.
 
 ### Regular News Reading 
 
 You should do regular readings to educate yourself during the class—and beyond!—on specific areas of interest. I will start most classroom days with a brief discussion about current events related to our reading. News services have greatly expanded their coverage of energy, climate, as well as related policies and legislation.
 
-- Many major newspapers allow you to subscribe to climate- and energy-specific newsletters. Examples: the *New York Times* ({{% resource_link "2705eb80-77ba-4ba5-a432-2eaf4ebd14f3" "Climate Forward" %}}); the *Washington Post* ({{% resource_link "f486d863-6513-4203-bf92-f6239dab73fe" "Climate 202" %}}); the *Wall Street Journal* ({{% resource_link "bd77510c-3a3f-4991-9346-1ea96dcd3a29" "WSJ Climate & Energy" %}}); the *Financial Times* ({{% resource_link "c1023f8b-f1ff-4573-ac50-2061a0079ea0" "Climate Capital" %}}); the *Boston Globe* ({{% resource_link "ca150dbe-7c01-4564-8c79-17166b0988d0" "Into the Red" %}}); the *Los Angeles Times* ({{% resource_link "e7d5ccdb-1a55-415a-9087-474344d3ac5c" "Boiling Point" %}}). 
+- Many major newspapers allow you to subscribe to climate- and energy-specific newsletters. Examples: the *New York Times* ([Climate Forward](https://www.nytimes.com/column/climate-fwd)); the *Washington Post* ([Climate 202](https://www.washingtonpost.com/politics/the-202-newsletters/the-climate-202/)); the *Wall Street Journal* ([WSJ Climate & Energy](https://s.wsj.net/newsletter/climate_CM_preview.html)); the *Financial Times* ([Climate Capital](https://www.ft.com/climate-capital)); the *Boston Globe* ([Into the Red](https://www.bostonglobe.com/science/environment/climate/)); the *Los Angeles Times* ([Boiling Point](https://www.latimes.com/newsletters/boiling-point)). 
 - Magazines and journals such as the *New Yorker* (Bill McKibben, Elizabeth Kolbert) and the *Atlantic* (Robinson Meyer)
-- {{% resource_link "ebff5a94-1dfd-44cb-b9aa-f8a478a794b2" "E&E News" %}}
+- [E&E News](https://www.eenews.net/get-access/)
 
 Other news and commentary outlets that have excellent climate coverage, including: 
 
-- U.S. and regional {{% resource_link "758b60dc-95b5-4f65-a6f2-d49a7b509fe2" "Energy News Networks" %}}. These newsletters are an excellent source of local and regional energy news.
+- U.S. and regional [Energy News Networks](https://energynews.us/). These newsletters are an excellent source of local and regional energy news.
 - Twitter is surprisingly useful if you follow the right people and are not distracted by cute puppy videos. 
 
 It is all too much to read everyday, but learning what and how to pay attention to things that interest you is a valuable way to see what people in the energy and climate spaces are talking about. I welcome any news suggestions that you all want to discuss (the quirkier, the better!).
@@ -164,7 +164,7 @@ Before each class, watching my video lecture, doing the reading and a basic calc
 
 The final paper assignment will synthesize what you learn over the semester by considering the prospects for a technological or policy innovation in a city of your choosing (I recommend your home or future city). Undergraduates will be expected to write a short paper of 8 pages minimum. Graduate students will write a paper of 12 pages minimum, with the additional task of analyzing their chosen city in terms of its expected future demographic changes. 
 
-We will have group discussions in the last three classes to share knowledge from our papers. This is also a good chance to put finishing touches on your final paper. Writing a good paper is much easier if you plan ahead, get feedback or help from your classmates, the MIT {{% resource_link "34b89d03-8fe5-4336-a150-19e214f4891c" "Writing and Communication Center" %}}, and myself, and have time to revise.
+We will have group discussions in the last three classes to share knowledge from our papers. This is also a good chance to put finishing touches on your final paper. Writing a good paper is much easier if you plan ahead, get feedback or help from your classmates, the MIT [Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/), and myself, and have time to revise.
 
 Problem sets and reading questions are due by midnight (11:59 pm) the day before class. Earlier is better for your sleep, though! For more details on the expectations for the assignments, see the {{% resource_link "5da90314-a12e-44d0-88dd-6f3ab1ffbe35" "Assignments" %}} page.
 
@@ -174,4 +174,4 @@ Each person is allowed to miss up to 3 problem sets and reading questions, which
 
 ## Academic Integrity
 
-Plagiarism, unauthorized collaboration, cheating, and facilitating academic dishonesty are academic crimes. It is your responsibility as students and scholars to understand the definition of any such activities, and to avoid and discourage them. Engaging in these activities either knowingly or unknowingly may result in severe academic sanctions, and you are therefore expected to familiarize yourself with MIT's {{% resource_link "cee675a2-f8eb-4148-b610-45afc6c87bd2" "academic integrity policies" %}}.
+Plagiarism, unauthorized collaboration, cheating, and facilitating academic dishonesty are academic crimes. It is your responsibility as students and scholars to understand the definition of any such activities, and to avoid and discourage them. Engaging in these activities either knowingly or unknowingly may result in severe academic sanctions, and you are therefore expected to familiarize yourself with MIT's [academic integrity policies](https://integrity.mit.edu/).
