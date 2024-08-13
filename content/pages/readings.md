@@ -38,8 +38,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System." (PDF)](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                                   
-                                                  
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System." (PDF)](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                                                    
+                                                   
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Erin Baker, Anna P. Goldstein, and Inês M.L. Azevedo (2021). ["A Perspective on Equity Implications of Net Zero Energy Systems."](https://www.sciencedirect.com/science/article/abs/pii/S2666278721000246) *Energy and Climate Change* 2: 100047.
@@ -210,7 +210,7 @@ José A. Gómez-Ibáñez (2006). *Regulating Infrastructure: Monopoly, Contracts
 
 Ari Peskoe (2010). ["A Challenge for Federalism: Achieving National Goals in the Electricity Industry" (PDF - 4.1 MB)](https://scholarship.law.missouri.edu/cgi/viewcontent.cgi?article=1394&context=jesl). *Missouri Environmental Law & Policy Review* 18: 209–281.
 
-Scott Hempling (2012). ["Promoting Diversity and Prohibiting Discrimination: Is There a Regulatory Obligation to Society?" (PDF)](https://secureservercdn.net/198.71.233.202/012.6a8.myftpupload.com/wp-content/uploads/2021/10/Promoting-Diversity-and-Prohibiting-Discrimination-Jan-2012.pdf).
+Scott Hempling (2012). ["Promoting Diversity and Prohibiting Discrimination: Is There a Regulatory Obligation to Society?" (PDF)](https://0126a8.a2cdn1.secureserver.net/wp-content/uploads/2021/10/Promoting-Diversity-and-Prohibiting-Discrimination-Jan-2012.pdf).
 
 ### Session 21: Ownership
 
