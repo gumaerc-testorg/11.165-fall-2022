@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/urban-energy-systems-and-policy-fall-2022/ocw_11165_lecture11_2022oct14_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/11-165j-urban-energy-systems-and-policy-fall-2022/ocw_11165_lecture11_2022oct14_360p_16_9.mp4
 file_size: 42930426
 file_type: video/mp4
 image_metadata:
